@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="css/signup-style.css">
 <title>Login</title>
 </head>
-<body>
+<body background="E:\training\java\Online Shopping Project\pic14.jpg">
 <div id='container'>
   <div class='signup'>
      
@@ -38,7 +38,7 @@ if ("invalid".equals(msg))
 
 <%} %>
 
-    <h2>Online Shopping</h2>
+    <h2 class=c>Shopping Cart (For Babies)</h2>
     <p>The Online Shopping System is the application that allows the users to shop online without going to the shops to buy them.</p>
   </div>
 </div>

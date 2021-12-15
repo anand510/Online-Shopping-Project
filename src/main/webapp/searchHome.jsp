@@ -67,7 +67,7 @@ System.out.println(e);
       <br>
       <br>
       <div class="footer">
-          <p>All right reserved by BTech Days</p>
+          <p>All right reserved @Team</p>
       </div>
 
 </body>

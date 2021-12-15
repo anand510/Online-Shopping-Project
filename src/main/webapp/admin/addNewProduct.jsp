@@ -52,20 +52,20 @@ catch(Exception e)
 
 <div class="left-div">
  <h3>Enter Name</h3>
- <input class="input.style" type="text" name="name" placeholder="Enter Name" required>
+ <input class="input-style" type="text" name="name" placeholder="Enter Name" required>
  
 <hr>
 </div>
 
 <div class="right-div">
 <h3>Enter Category</h3>
- <input class="input.style" type="text" name="category" placeholder="Enter Category" required>
+ <input class="input-style" type="text" name="category" placeholder="Enter Category" required>
 <hr>
 </div>
 
 <div class="left-div">
 <h3>Enter Price</h3>
- <input class="input.style" type="number" name="price" placeholder="Enter Price" required>
+ <input class="input-style" type="number" name="price" placeholder="Enter Price" required>
 <hr>
 </div>
 

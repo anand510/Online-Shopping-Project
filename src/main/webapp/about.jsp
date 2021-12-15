@@ -10,26 +10,18 @@
 <body>
 <div style="color: white; text-align: center; font-size: 30px;">About <i class="fa fa-address-book"></i></div>
 <div style="background-color: white; padding:35px; font-size: 30px;">
-BTech Days
-<br>
 Hey everyone!!
 <br>
-I make free programming tutorials for beginners.
-& PROJECT videos with source code.
-That include Java for beginners,c# (Dot net tutorial), JFrame,JDBC,Jsp,etc
+we make a project on online shopping for Babies by using Advanced Java topic like (jdbca,jsp,css e.t.c)!!
 <br>
-We make videos of :-
-DBMS
-COMPUTER NETWORKING 
-BPM
-OS, etc
-So kindly subscribe our channel.
+Our team members is:-<br>
+Anand Kumar Yadav<br>
+Manasa<br>
+Pushkar<br>
+Sandip<br><br><br><br>
+
 <br>
-Contact us at :- btechdays.care@gmail.com
-<br>
-or
-<br>
-contact us at instagram :- btechdays
+
 </div>
 
 </body>
